@@ -1,0 +1,15 @@
+[submodule "day-2-Save-My-Name/lib/forge-std"]
+	path = day-2-Save-My-Name/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "day-3-Test/lib/forge-std"]
+	path = day-3-Test/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "day4-Advanced_test/lib/forge-std"]
+	path = day4-Advanced_test/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "day5-gas-optimization/lib/forge-std"]
+	path = day5-gas-optimization/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "day-11-ci-cd/lib/forge-std"]
+	path = day-11-ci-cd/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
