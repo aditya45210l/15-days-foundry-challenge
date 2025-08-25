@@ -2,8 +2,10 @@ name: CI
 
 on:
   push:
-    branches: [test]
-  pull_request: [test]
+    branches: [main, test]   # runs on both main and test
+  pull_request:
+    branches: [main, test]
+
 
 env:
   FOUNDRY_PROFILE: ci
